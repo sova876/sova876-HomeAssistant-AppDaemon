@@ -1,0 +1,8 @@
+---
+toggle_led_19:
+  module: toggle_19
+  class: Toggle
+ 
+mqtt_test:
+  module: mqtt_test
+  class: MQTT_test
