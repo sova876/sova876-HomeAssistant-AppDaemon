@@ -6,3 +6,7 @@ toggle_led_19:
 mqtt_test:
   module: mqtt_test
   class: MQTT_test
+
+mqtt_publish:
+  module: mqtt_publish
+  class: MQTT_publish
